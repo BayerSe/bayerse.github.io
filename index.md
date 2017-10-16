@@ -1,5 +1,5 @@
 # Contact
-You can reach me at [bayerse@gmail.com](bayerse@gmail.com).
+You can reach me at [bayerse@gmail.com](mailto:bayerse@gmail.com).
 
 
 # Publications
