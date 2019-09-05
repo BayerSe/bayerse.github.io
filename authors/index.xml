@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Sebastian Bayer</title>
+    <link>https://sbyr.de/authors/</link>
+      <atom:link href="https://sbyr.de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sbyr.de/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://sbyr.de/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://sbyr.de/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sbyr.de/authors/admin/</guid>
+      <description>&lt;p&gt;Sebastian is a data scientist the Robert Bosch Center for Artificial Intelligence with strong interests in econometrics, predictive modelling, optimization and programming.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

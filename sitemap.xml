@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sbyr.de/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/tags/</loc>
+  </url>
+  
+</urlset>
