@@ -4,10 +4,62 @@
   
   <url>
     <loc>https://sbyr.de/authors/admin/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication_types/2/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication/dimitriadisbayer2019/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sbyr.de/authors/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication_types/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/tags/source-themes/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/tags/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/authors/timo-dimitriadis/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication/bayer2018/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/publication/bayerdimitriadis2019/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,23 +71,7 @@
   </url>
   
   <url>
-    <loc>https://sbyr.de/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sbyr.de/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://sbyr.de/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sbyr.de/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sbyr.de/tags/</loc>
   </url>
   
 </urlset>

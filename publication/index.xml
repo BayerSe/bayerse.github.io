@@ -5,12 +5,36 @@
     <link>https://sbyr.de/publication/</link>
       <atom:link href="https://sbyr.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sbyr.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://sbyr.de/publication/</link>
     </image>
+    
+    <item>
+      <title>A joint quantile and expected shortfall regression framework</title>
+      <link>https://sbyr.de/publication/dimitriadisbayer2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://sbyr.de/publication/dimitriadisbayer2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Value-at-Risk forecasts using penalized quantile regressions</title>
+      <link>https://sbyr.de/publication/bayer2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://sbyr.de/publication/bayer2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression Based Expected Shortfall Backtesting</title>
+      <link>https://sbyr.de/publication/bayerdimitriadis2019/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://sbyr.de/publication/bayerdimitriadis2019/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
