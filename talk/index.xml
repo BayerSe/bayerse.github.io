@@ -5,12 +5,28 @@
     <link>https://sbyr.de/talk/</link>
       <atom:link href="https://sbyr.de/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 10:25:00 +0000</lastBuildDate>
     <image>
-      <url>https://sbyr.de/img/icon-192.png</url>
+      <url>https://sbyr.de/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://sbyr.de/talk/</link>
     </image>
+    
+    <item>
+      <title>Towards Full Factory Scheduling</title>
+      <link>https://sbyr.de/talk/2020-systema-expert-day/</link>
+      <pubDate>Thu, 23 Jan 2020 10:25:00 +0000</pubDate>
+      <guid>https://sbyr.de/talk/2020-systema-expert-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full Factory Scheduling</title>
+      <link>https://sbyr.de/talk/2019-semicon/</link>
+      <pubDate>Tue, 12 Nov 2019 14:10:00 +0000</pubDate>
+      <guid>https://sbyr.de/talk/2019-semicon/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

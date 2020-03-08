@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sbyr.de/talk/</loc>
+    <lastmod>2020-01-23T10:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/</loc>
+    <lastmod>2020-01-23T10:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/talk/2020-systema-expert-day/</loc>
+    <lastmod>2020-01-23T10:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/tags/operations-research/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/project/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/project/rtp-scheduler/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/tags/scheduling/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/tags/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sbyr.de/talk/2019-semicon/</loc>
+    <lastmod>2019-11-12T14:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sbyr.de/authors/admin/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -33,17 +78,7 @@
   </url>
   
   <url>
-    <loc>https://sbyr.de/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sbyr.de/tags/source-themes/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sbyr.de/tags/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,10 +103,6 @@
   
   <url>
     <loc>https://sbyr.de/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sbyr.de/talk/</loc>
   </url>
   
 </urlset>

@@ -7,31 +7,10 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sbyr.de/img/icon-192.png</url>
+      <url>https://sbyr.de/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://sbyr.de/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://sbyr.de/authors/admin/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://sbyr.de/authors/admin/</guid>
-      <description>&lt;p&gt;Sebastian Bayer is a data scientist and AI consultant at the Robert Bosch Center for Artificial Intelligence where he works on solving challenging problems of Bosch-internal customers.
-He is currently concentrating on topics involving mathematical optimization and statistical techniques and modelling.
-For the last two years he has been working in collaboration with the Robert Bosch Wafer and Sensor Fab in Reutlingen, where he is replacing rule-based dispatching with optimized scheduling routines.
-He holds an M.Sc. in Economics and a Ph.D. in Econometrics from the University of Konstanz, where he focused on applying statistical and mathematical models on modeling financial market risks.
-His interests include combinatorial optimization, operations research, predictive modelling, and programming&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Timo Dimitriadis</title>
-      <link>https://sbyr.de/authors/timo-dimitriadis/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://sbyr.de/authors/timo-dimitriadis/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
